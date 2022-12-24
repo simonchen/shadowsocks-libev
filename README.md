@@ -7,6 +7,7 @@ apt install libmbedtls-dev
 apt install libc-ares-dev
 apt-get install libpcre3 libpcre3-dev
 ./configure --disable-documentation
+make && make install
 ```
 
 
