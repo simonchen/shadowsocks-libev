@@ -1,5 +1,13 @@
 # shadowsocks-libev
 
+## Ubuntu configure / install
+```
+apt install libmbedtls-dev
+apt-get install libpcre3 libpcre3-dev
+./configure --disable-documentation
+```
+
+
 [![Build Status](https://travis-ci.com/shadowsocks/shadowsocks-libev.svg?branch=master)](https://travis-ci.com/shadowsocks/shadowsocks-libev) [![Snap Status](https://snapcraft.io/shadowsocks-libev/badge.svg)](https://snapcraft.io/shadowsocks-libev)
 
 ## Intro
