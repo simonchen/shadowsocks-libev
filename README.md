@@ -2,6 +2,7 @@
 
 ## Ubuntu configure / install
 ```
+apt install libev-dev
 apt install libmbedtls-dev 
 apt install libc-ares-dev
 apt-get install libpcre3 libpcre3-dev
