@@ -1,6 +1,7 @@
 # shadowsocks-libev
+This is forked from shadowsocks/shadowsocks-libev
 
-## Ubuntu configure / install
+## How to configure / install under Ubuntu
 ```
 apt install libev-dev
 apt install libmbedtls-dev 
